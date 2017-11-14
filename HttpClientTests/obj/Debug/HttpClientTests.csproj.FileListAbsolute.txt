@@ -9,3 +9,8 @@ C:\Users\alvarezd\Documents\Visual Studio 2015\Projects\HttpClient\HttpClientTes
 C:\Users\alvarezd\Documents\Visual Studio 2015\Projects\HttpClient\HttpClientTests\obj\Debug\HttpClientTests.pdb
 C:\Users\alvarezd\Documents\Visual Studio 2015\Projects\HttpClient\HttpClientTests\bin\Debug\HttpClientTests.exe
 C:\Users\alvarezd\Documents\Visual Studio 2015\Projects\HttpClient\HttpClientTests\bin\Debug\HttpClientTests.pdb
+C:\Users\alvarezd\Source\Repos\HttpClientTests\HttpClientTests\bin\Debug\HttpClientTests.exe.config
+C:\Users\alvarezd\Source\Repos\HttpClientTests\HttpClientTests\bin\Debug\HttpClientTests.exe
+C:\Users\alvarezd\Source\Repos\HttpClientTests\HttpClientTests\bin\Debug\HttpClientTests.pdb
+C:\Users\alvarezd\Source\Repos\HttpClientTests\HttpClientTests\obj\Debug\HttpClientTests.exe
+C:\Users\alvarezd\Source\Repos\HttpClientTests\HttpClientTests\obj\Debug\HttpClientTests.pdb

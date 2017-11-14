@@ -8,3 +8,13 @@ C:\Users\alvarezd\Documents\Visual Studio 2015\Projects\HttpClient\HttpServer\bi
 C:\Users\alvarezd\Documents\Visual Studio 2015\Projects\HttpClient\HttpServer\obj\Debug\HttpServer.csprojResolveAssemblyReference.cache
 C:\Users\alvarezd\Documents\Visual Studio 2015\Projects\HttpClient\HttpServer\obj\Debug\HttpServer.exe
 C:\Users\alvarezd\Documents\Visual Studio 2015\Projects\HttpClient\HttpServer\obj\Debug\HttpServer.pdb
+C:\Users\alvarezd\Source\Repos\HttpClientTests\HttpServer\bin\Debug\HttpServer.exe.config
+C:\Users\alvarezd\Source\Repos\HttpClientTests\HttpServer\bin\Debug\HttpServer.exe
+C:\Users\alvarezd\Source\Repos\HttpClientTests\HttpServer\bin\Debug\HttpServer.pdb
+C:\Users\alvarezd\Source\Repos\HttpClientTests\HttpServer\bin\Debug\Nancy.dll
+C:\Users\alvarezd\Source\Repos\HttpClientTests\HttpServer\bin\Debug\Nancy.Hosting.Self.dll
+C:\Users\alvarezd\Source\Repos\HttpClientTests\HttpServer\bin\Debug\Nancy.xml
+C:\Users\alvarezd\Source\Repos\HttpClientTests\HttpServer\bin\Debug\Nancy.Hosting.Self.xml
+C:\Users\alvarezd\Source\Repos\HttpClientTests\HttpServer\obj\Debug\HttpServer.csprojResolveAssemblyReference.cache
+C:\Users\alvarezd\Source\Repos\HttpClientTests\HttpServer\obj\Debug\HttpServer.exe
+C:\Users\alvarezd\Source\Repos\HttpClientTests\HttpServer\obj\Debug\HttpServer.pdb
